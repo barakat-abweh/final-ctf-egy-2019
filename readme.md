@@ -1,8 +1,4 @@
-### Malware Reverse Engineering
-
- - medium - 100 Point
-
- - hard - 200 Point
+#### CyberTalents Final Egypt 2019t
 
 
 
