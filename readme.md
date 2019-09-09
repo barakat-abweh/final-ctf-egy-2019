@@ -1,4 +1,4 @@
-### Malware Reverse Engineering.
+### Malware Reverse Engineering
 
 ###### Curiosity - medium - 100 Point  
 
